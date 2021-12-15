@@ -8,7 +8,7 @@
     BERT X Colab 
 </h4>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62555935/146241805-86feee3d-4c95-400f-ace8-b9bbdaa1a7d4.jpg" width="300" height="300"/>
+  <img src="https://user-images.githubusercontent.com/62555935/146241805-86feee3d-4c95-400f-ace8-b9bbdaa1a7d4.jpg" width="250"/>
 </p>
 
 <p align="center">
